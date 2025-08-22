@@ -19,7 +19,7 @@ It helps businesses understand different customer groups for better-targeted mar
 
 ## Repository Structure
 Mall-Customer-Segmentation-KMeans/
-- -- mall_customers_clustering.py # Main code file
+- -- Mall_Customers.py # Main code file
 - -- Mall_Customers.csv # Dataset available in(`Mall_Customers.csv`)
 - -- README.md # Project Documentation
 
